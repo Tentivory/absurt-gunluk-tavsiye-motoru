@@ -19,7 +19,8 @@ tavsiyeler = [
     "Yemek yerken çatalı sol elinde tut, çünkü neden olmasın?",
     "Arkadaşına 'bugün çok verimliyim' diye mesaj at ama sonra hiçbir şey yapma.",
     "Müzik dinlerken kulaklığı ters tak. Sesler farklı gelecek, hayatın da öyle.",
-    "Bugün sadece soru sorarak konuş. Cevap verme."
+    "Bugün sadece soru sorarak konuş. Cevap verme.",
+    "Devlet dairesinde sıra beklerken 'bu sıra aslında bir felsefe dersi' diye düşün."  # Gizli absürt bürokrasi yorumu
 ]
 
 def absurt_tavsiye_uret():
